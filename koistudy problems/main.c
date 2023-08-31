@@ -138,5 +138,6 @@ int main() {
 
 int main() {
 	printf("hello");
+	printf("complete!");
 	return 0;
 }
