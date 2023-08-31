@@ -138,6 +138,5 @@ int main() {
 
 int main() {
 	printf("hello");
-	printf("goggooogo");
 	return 0;
 }
