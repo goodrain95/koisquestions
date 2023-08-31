@@ -139,6 +139,6 @@ int main() {
 int main() {
 	printf("hello");
 	printf("pelase");
-	printf("final");
+	printf("end");
 	return 0;
 }
