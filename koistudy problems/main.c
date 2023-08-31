@@ -138,5 +138,6 @@ int main() {
 
 int main() {
 	printf("hello");
+	printf("pelase");
 	return 0;
 }
